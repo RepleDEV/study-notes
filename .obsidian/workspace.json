@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "c58b769ead1b9364",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c7630029f3f80ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "728ed915ffdb991b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/Cambridge Syllabus (9702).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cambridge Syllabus (9702)"
+            }
+          },
+          {
+            "id": "8d87622ccaab87c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/Topics/Energy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Energy"
+            }
+          },
+          {
+            "id": "c1b2d764665d5d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/Topics/Electromagnetic Waves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electromagnetic Waves"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0eb60772a0dd212",
+    "type": "split",
+    "children": [
+      {
+        "id": "172283aa90a14ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "debdb0281db2308e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1887d0b7ef42be9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0519fbdc172f591",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "right": {
+    "id": "99e9bea6891297dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e1f73ae83a4a1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ce17900dcb40c8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Math/Topics/Integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Integration"
+            }
+          },
+          {
+            "id": "2d5bf57152bca375",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Math/Topics/Integration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Integration"
+            }
+          },
+          {
+            "id": "0f734c906fa714b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2739ef907b03f21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Math/Topics/Integration.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Integration"
+            }
+          },
+          {
+            "id": "7d8bd8e42aa365b5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "88074ecd349f34bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
+    }
+  },
+  "active": "728ed915ffdb991b",
+  "lastOpenFiles": [
+    "Notes/Chemistry/Topics/Capacitance.md",
+    "Notes/Physics/Topics/Energy.md",
+    "Notes/Physics/Topics/Deformation of Solids & Springs.md",
+    "Notes/Physics/Cambridge Syllabus (9702).md",
+    "Notes/Math/Topics/Exponentiation and Logarithms.md",
+    "Notes/Math/Topics/Sequences and Series.md",
+    "Notes/Math/Topics/Functions.md",
+    "Notes/Math/Topics/Coordinate Geometry.md",
+    "Notes/Math/Topics/Probability.md",
+    "Notes/Math/Topics/Circular Measure.md",
+    "Notes/Math/Topics/Angles.md",
+    "Untitled.md",
+    "Notes/Physics/Topics/Electromagnetic Waves.md",
+    "Notes/Physics/Topics/Magnetic Fields.md",
+    "Notes/Physics/Topics/Electricity & Resistivity.md",
+    "Notes/Chemistry/Topics/Electrochemistry.md",
+    "Notes/Physics/Topics/Gravity & Circular Orbits.md",
+    "Notes/Math/Topics/Trigonometry.md",
+    "Notes/Physics/Topics/Electric Fields.md",
+    "Notes/Physics/Topics/Oscillations.md",
+    "Notes/Physics/Topics/Thermodynamics.md",
+    "Notes/Physics/Topics/Ideal Gases & Kinetic Theory of Gases.md",
+    "Notes/Chemistry/Topics/Moles.md",
+    "Notes/Math/Topics/Differentiation.md",
+    "Untitled.base",
+    "Notes/Physics/Topics/Dynamics.md",
+    "Notes/Physics/Topics/Momentum.md",
+    "Images/Pasted image 20250925095326.png",
+    "Untitled 1.base",
+    "assets/svg/arrow_up.svg",
+    "assets/svg/arrow_down.svg",
+    "public/static/49b9d0e5a7393fb652299de45be28000",
+    "public/static/125d5cf891c531c8968e1aeed375e5bd",
+    "public/page-data/notes/physics/topics/kirchhoff-s-law-and-circuits/page-data.json",
+    "public/page-data/notes/physics/topics/kirchhoff-s-law-and-circuits",
+    "src/plugins/remarkHeaderCounter.ts",
+    "src/components/ContentOverview.tsx",
+    "public/webpack-runtime-70e2dba4899a0f8e1f8c.js.map",
+    "public/webpack-runtime-70e2dba4899a0f8e1f8c.js",
+    "assets/svg/sigma.svg",
+    "assets/svg/question_mark.svg",
+    "Images/Pasted image 20240211213004.png",
+    "Images/Pasted image 20231122113221.png",
+    "Images/Pasted image 20230906122737.png",
+    "Images/Pasted image 20230823150608.png",
+    "Images/Pasted image 20230823150408.png",
+    "Untitled.canvas"
+  ]
+}

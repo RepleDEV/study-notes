@@ -1,5 +1,8 @@
 ---
-tags: polynomial, quadratic, factorizing
+tags:
+  - polynomial
+  - quadratic
+  - factorizing
 ---
 #### [[Quadratics#^442076|Jump to Conclusion]]
 ## What's a quadratic?
